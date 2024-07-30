@@ -40,9 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/YagoLopesMartins/YagoLopesMartins/output/snake.svg" alt="Snake animation" />
 
 ###
 
