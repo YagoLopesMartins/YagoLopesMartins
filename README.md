@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Developer with over 5 years of experience in web development, specializing in technologies such as: Nest, SpringBoot, Laravel, React, Docker and DevOps practices. I have expertise in frontend and backend technologies and experience in working with agile teams with a focus on scalable solutions, responsiveness and continuous integration. I am passionate about delivering clean, efficient code, with good documentation and an emphasis on user experience and test driven development (TDD).</p>
+<p align="left">Full Stack Developer with over 5 years of experience in web development, specializing in technologies such as: Nest(NodeJS), SpringBoot(Data, Security, Web), Laravel (PHP), ReactJS, Docker and DevOps practices. I have expertise in frontend and backend technologies and experience in working with agile teams with a focus on scalable solutions, responsiveness and continuous integration. I am passionate about delivering clean, efficient code, with good documentation and an emphasis on user experience and test driven development (TDD).</p>
 
 ###
 
